@@ -1,0 +1,16 @@
+2026-11-17 12:40:20,912 | INFO    | goldsilver.fetcher | GET https://www.goodreturns.in/gold-rates/chennai.html
+2026-11-17 12:40:21,317 | INFO    | goldsilver.fetcher | Fetched https://www.goodreturns.in/gold-rates/chennai.html: HTTP 200, 537106 bytes in 0.40s
+2026-11-17 12:40:21,402 | INFO    | goldsilver.parsers | Gold parsed: 3 current rates, 12 weight rows
+2026-11-17 12:40:21,403 | INFO    | goldsilver.fetcher | GET https://www.goodreturns.in/silver-rates/chennai.html
+2026-11-17 12:40:21,463 | INFO    | goldsilver.fetcher | Fetched https://www.goodreturns.in/silver-rates/chennai.html: HTTP 200, 524946 bytes in 0.06s
+2026-11-17 12:40:21,551 | INFO    | goldsilver.parsers | Silver parsed: 2 current rates, 5 weight rows
+2026-11-17 12:40:21,559 | INFO    | goldsilver.storage | Saved C:\Users\SAMSUNG\Desktop\gold-silver-telegram\gold-silver-telegram\output\gold_silver_20261117_124020.json and C:\Users\SAMSUNG\Desktop\gold-silver-telegram\gold-silver-telegram\output\gold_silver_20261117_124020.txt
+2026-11-17 12:40:22,710 | INFO    | goldsilver.telegram_client | Telegram message 1/1 delivered (1320 chars)
+2026-11-17 12:47:51,990 | INFO    | goldsilver.fetcher | GET https://www.goodreturns.in/gold-rates/chennai.html
+2026-11-17 12:47:52,428 | INFO    | goldsilver.fetcher | Fetched https://www.goodreturns.in/gold-rates/chennai.html: HTTP 200, 537106 bytes in 0.44s
+2026-11-17 12:47:52,518 | INFO    | goldsilver.parsers | Gold parsed: 3 current rates, 12 weight rows
+2026-11-17 12:47:52,518 | INFO    | goldsilver.fetcher | GET https://www.goodreturns.in/silver-rates/chennai.html
+2026-11-17 12:47:52,565 | INFO    | goldsilver.fetcher | Fetched https://www.goodreturns.in/silver-rates/chennai.html: HTTP 200, 524946 bytes in 0.05s
+2026-11-17 12:47:52,634 | INFO    | goldsilver.parsers | Silver parsed: 2 current rates, 5 weight rows
+2026-11-17 12:47:52,641 | INFO    | goldsilver.storage | Saved C:\Users\SAMSUNG\Desktop\gold-silver-telegram\gold-silver-telegram\output\gold_silver_20261117_124751.json and C:\Users\SAMSUNG\Desktop\gold-silver-telegram\gold-silver-telegram\output\gold_silver_20261117_124751.txt
+2026-11-17 12:48:14,203 | INFO    | goldsilver.telegram_client | Telegram message 1/1 delivered (1007 chars)

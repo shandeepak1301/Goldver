@@ -1,0 +1,60 @@
+GOLD & SILVER RATES - CHENNAI
+Report date: Tuesday, 17 November 2026
+Report time: 12:33 IST (UTC+05:30)
+
+GOLD (INR per gram)
+Location: Chennai
+Source page date: 17 Nov 2026
+24K | Purity: 99.9% | Price: ₹13,604 | Change: -76
+22K | Purity: 91.6% | Price: ₹12,470 | Change: -70
+18K | Purity: 75% | Price: ₹10,205 | Change: -55
+
+GOLD - PRICE BY WEIGHT
+1 g: 24K ₹13,604 (-76) | 22K ₹12,470 (-70) | 18K ₹10,205 (-55)
+8 g: 24K ₹1,08,832 (-608) | 22K ₹99,760 (-560) | 18K ₹81,640 (-440)
+10 g: 24K ₹1,36,040 (-760) | 22K ₹1,24,700 (-700) | 18K ₹1,02,050 (-550)
+100 g: 24K ₹13,60,400 (-7,600) | 22K ₹12,47,000 (-7,000) | 18K ₹10,20,500 (-5,500)
+
+GOLD - LAST 10 DAYS (per gram; change in brackets)
+Nov 17, 2026: 24K ₹13,604 (-76) | 22K ₹12,470 (-70)
+Nov 16, 2026: 24K ₹13,680 (-82) | 22K ₹12,540 (-75)
+Nov 15, 2026: 24K ₹13,762 (0) | 22K ₹12,615 (0)
+Nov 14, 2026: 24K ₹13,762 (-87) | 22K ₹12,615 (-80)
+Nov 13, 2026: 24K ₹13,849 (-131) | 22K ₹12,695 (-120)
+Nov 12, 2026: 24K ₹13,980 (-218) | 22K ₹12,815 (-200)
+Nov 11, 2026: 24K ₹14,198 (-213) | 22K ₹13,015 (-195)
+Nov 10, 2026: 24K ₹14,411 (+55) | 22K ₹13,210 (+51)
+Nov 09, 2026: 24K ₹14,356 (-1) | 22K ₹13,159 (-1)
+Nov 08, 2026: 24K ₹14,357 (0) | 22K ₹13,160 (0)
+
+SILVER (INR)
+Location: Chennai
+Source page date: 17 Nov 2026
+1 g | Price: ₹190 | Previous: ₹190 | Change: 0
+1 kg | Price: ₹1,90,000 | Previous: ₹1,90,000 | Change: 0
+
+SILVER - PRICE BY WEIGHT
+1 g: ₹190 | Yesterday: ₹190 | Change: 0
+8 g: ₹1,520 | Yesterday: ₹1,520 | Change: 0
+10 g: ₹1,900 | Yesterday: ₹1,900 | Change: 0
+100 g: ₹19,000 | Yesterday: ₹19,000 | Change: 0
+1 kg: ₹1,90,000 | Yesterday: ₹1,90,000 | Change: 0
+
+SILVER - LAST 10 DAYS (change shown where the source gives it)
+Nov 17, 2026: 10 g ₹1,900 | 100 g ₹19,000 | 1 kg ₹1,90,000 (0)
+Nov 16, 2026: 10 g ₹1,900 | 100 g ₹19,000 | 1 kg ₹1,90,000 (-5,000)
+Nov 15, 2026: 10 g ₹1,950 | 100 g ₹19,500 | 1 kg ₹1,95,000 (0)
+Nov 14, 2026: 10 g ₹1,950 | 100 g ₹19,500 | 1 kg ₹1,95,000 (0)
+Nov 13, 2026: 10 g ₹1,950 | 100 g ₹19,500 | 1 kg ₹1,95,000 (-5,000)
+Nov 12, 2026: 10 g ₹2,000 | 100 g ₹20,000 | 1 kg ₹2,00,000 (0)
+Nov 11, 2026: 10 g ₹2,000 | 100 g ₹20,000 | 1 kg ₹2,00,000 (-5,000)
+Nov 10, 2026: 10 g ₹2,050 | 100 g ₹20,500 | 1 kg ₹2,05,000 (0)
+Nov 09, 2026: 10 g ₹2,050 | 100 g ₹20,500 | 1 kg ₹2,05,000 (0)
+Nov 08, 2026: 10 g ₹2,050 | 100 g ₹20,500 | 1 kg ₹2,05,000 (0)
+
+NOTES
+The above gold rates are indicative and do not include GST, TCS and other levies. For the exact rates contact your local jeweller.
+
+SOURCES
+Gold: https://www.goodreturns.in/gold-rates/chennai.html
+Silver: https://www.goodreturns.in/silver-rates/chennai.html

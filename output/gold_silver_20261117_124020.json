@@ -1,0 +1,376 @@
+{
+  "meta": {
+    "generated_at_ist": "2026-11-17T12:40:20.912617+05:30",
+    "tool_version": "1.0.0",
+    "report_message_count": 1,
+    "validation_warnings": []
+  },
+  "gold": {
+    "metal": "gold",
+    "source_url": "https://www.goodreturns.in/gold-rates/chennai.html",
+    "final_url": "https://www.goodreturns.in/gold-rates/chennai.html",
+    "http_status": 200,
+    "fetched_at_ist": "2026-11-17T12:40:21.318038+05:30",
+    "title": "Todays Gold Rate in Chennai, 18, 22 & 24 Carat Gold Price on 17 November 2026 - Goodreturns",
+    "city": "Chennai",
+    "page_date": "2026-11-17",
+    "page_date_text": "17 November 2026",
+    "page_meta_timestamp_epoch": 1794853800,
+    "page_meta_timestamp_ist": "2026-11-17T00:00:00+05:30",
+    "headline": "Today's gold price in Chennai stands at ₹13,604 per gram for 24 karat gold (99.9% purity), ₹12,470 per gram for 22 karat gold (91.6% purity), and ₹10,205 per gram for 18 karat gold (75% purity).",
+    "headline_rates": [
+      {
+        "label": "24K",
+        "unit": "gram",
+        "weight_grams": 1.0,
+        "price": 13604.0,
+        "price_text": "₹13,604",
+        "previous_price": null,
+        "previous_price_text": null,
+        "change": null,
+        "change_text": null,
+        "purity": "99.9%"
+      },
+      {
+        "label": "22K",
+        "unit": "gram",
+        "weight_grams": 1.0,
+        "price": 12470.0,
+        "price_text": "₹12,470",
+        "previous_price": null,
+        "previous_price_text": null,
+        "change": null,
+        "change_text": null,
+        "purity": "91.6%"
+      },
+      {
+        "label": "18K",
+        "unit": "gram",
+        "weight_grams": 1.0,
+        "price": 10205.0,
+        "price_text": "₹10,205",
+        "previous_price": null,
+        "previous_price_text": null,
+        "change": null,
+        "change_text": null,
+        "purity": "75%"
+      }
+    ],
+    "current_rates": [
+      {
+        "label": "24K",
+        "unit": "gram",
+        "weight_grams": 1.0,
+        "price": 13604.0,
+        "price_text": "₹13,604",
+        "previous_price": null,
+        "previous_price_text": null,
+        "change": -76.0,
+        "change_text": "-76",
+        "purity": "99.9%"
+      },
+      {
+        "label": "22K",
+        "unit": "gram",
+        "weight_grams": 1.0,
+        "price": 12470.0,
+        "price_text": "₹12,470",
+        "previous_price": null,
+        "previous_price_text": null,
+        "change": -70.0,
+        "change_text": "-70",
+        "purity": "91.6%"
+      },
+      {
+        "label": "18K",
+        "unit": "gram",
+        "weight_grams": 1.0,
+        "price": 10205.0,
+        "price_text": "₹10,205",
+        "previous_price": null,
+        "previous_price_text": null,
+        "change": -55.0,
+        "change_text": "-55",
+        "purity": "75%"
+      }
+    ],
+    "rates_by_weight": [
+      {
+        "label": "24K",
+        "unit": "gram",
+        "weight_grams": 1.0,
+        "price": 13604.0,
+        "price_text": "₹13,604",
+        "previous_price": null,
+        "previous_price_text": null,
+        "change": -76.0,
+        "change_text": "-76",
+        "purity": "99.9%"
+      },
+      {
+        "label": "22K",
+        "unit": "gram",
+        "weight_grams": 1.0,
+        "price": 12470.0,
+        "price_text": "₹12,470",
+        "previous_price": null,
+        "previous_price_text": null,
+        "change": -70.0,
+        "change_text": "-70",
+        "purity": "91.6%"
+      },
+      {
+        "label": "18K",
+        "unit": "gram",
+        "weight_grams": 1.0,
+        "price": 10205.0,
+        "price_text": "₹10,205",
+        "previous_price": null,
+        "previous_price_text": null,
+        "change": -55.0,
+        "change_text": "-55",
+        "purity": "75%"
+      },
+      {
+        "label": "24K",
+        "unit": "gram",
+        "weight_grams": 8.0,
+        "price": 108832.0,
+        "price_text": "₹1,08,832",
+        "previous_price": null,
+        "previous_price_text": null,
+        "change": -608.0,
+        "change_text": "-608",
+        "purity": "99.9%"
+      },
+      {
+        "label": "22K",
+        "unit": "gram",
+        "weight_grams": 8.0,
+        "price": 99760.0,
+        "price_text": "₹99,760",
+        "previous_price": null,
+        "previous_price_text": null,
+        "change": -560.0,
+        "change_text": "-560",
+        "purity": "91.6%"
+      },
+      {
+        "label": "18K",
+        "unit": "gram",
+        "weight_grams": 8.0,
+        "price": 81640.0,
+        "price_text": "₹81,640",
+        "previous_price": null,
+        "previous_price_text": null,
+        "change": -440.0,
+        "change_text": "-440",
+        "purity": "75%"
+      },
+      {
+        "label": "24K",
+        "unit": "gram",
+        "weight_grams": 10.0,
+        "price": 136040.0,
+        "price_text": "₹1,36,040",
+        "previous_price": null,
+        "previous_price_text": null,
+        "change": -760.0,
+        "change_text": "-760",
+        "purity": "99.9%"
+      },
+      {
+        "label": "22K",
+        "unit": "gram",
+        "weight_grams": 10.0,
+        "price": 124700.0,
+        "price_text": "₹1,24,700",
+        "previous_price": null,
+        "previous_price_text": null,
+        "change": -700.0,
+        "change_text": "-700",
+        "purity": "91.6%"
+      },
+      {
+        "label": "18K",
+        "unit": "gram",
+        "weight_grams": 10.0,
+        "price": 102050.0,
+        "price_text": "₹1,02,050",
+        "previous_price": null,
+        "previous_price_text": null,
+        "change": -550.0,
+        "change_text": "-550",
+        "purity": "75%"
+      },
+      {
+        "label": "24K",
+        "unit": "gram",
+        "weight_grams": 100.0,
+        "price": 1360400.0,
+        "price_text": "₹13,60,400",
+        "previous_price": null,
+        "previous_price_text": null,
+        "change": -7600.0,
+        "change_text": "-7,600",
+        "purity": "99.9%"
+      },
+      {
+        "label": "22K",
+        "unit": "gram",
+        "weight_grams": 100.0,
+        "price": 1247000.0,
+        "price_text": "₹12,47,000",
+        "previous_price": null,
+        "previous_price_text": null,
+        "change": -7000.0,
+        "change_text": "-7,000",
+        "purity": "91.6%"
+      },
+      {
+        "label": "18K",
+        "unit": "gram",
+        "weight_grams": 100.0,
+        "price": 1020500.0,
+        "price_text": "₹10,20,500",
+        "previous_price": null,
+        "previous_price_text": null,
+        "change": -5500.0,
+        "change_text": "-5,500",
+        "purity": "75%"
+      }
+    ],
+    "notes": [
+      "The above gold rates are indicative and do not include GST, TCS and other levies. For the exact rates contact your local jeweller."
+    ]
+  },
+  "silver": {
+    "metal": "silver",
+    "source_url": "https://www.goodreturns.in/silver-rates/chennai.html",
+    "final_url": "https://www.goodreturns.in/silver-rates/chennai.html",
+    "http_status": 200,
+    "fetched_at_ist": "2026-11-17T12:40:21.483642+05:30",
+    "title": "Todays Silver Rate in Chennai, Silver Price on 17 November 2026 - Goodreturns",
+    "city": "Chennai",
+    "page_date": "2026-11-17",
+    "page_date_text": "17 November 2026",
+    "page_meta_timestamp_epoch": 1794853800,
+    "page_meta_timestamp_ist": "2026-11-17T00:00:00+05:30",
+    "headline": "The price of silver in Chennai today is ₹190 per gram and ₹1,90,000 per kilogram.",
+    "headline_rates": [
+      {
+        "label": "Silver",
+        "unit": "gram",
+        "weight_grams": 1.0,
+        "price": 190.0,
+        "price_text": "₹190",
+        "previous_price": null,
+        "previous_price_text": null,
+        "change": null,
+        "change_text": null,
+        "purity": null
+      },
+      {
+        "label": "Silver",
+        "unit": "kg",
+        "weight_grams": 1000.0,
+        "price": 190000.0,
+        "price_text": "₹1,90,000",
+        "previous_price": null,
+        "previous_price_text": null,
+        "change": null,
+        "change_text": null,
+        "purity": null
+      }
+    ],
+    "current_rates": [
+      {
+        "label": "Silver",
+        "unit": "gram",
+        "weight_grams": 1.0,
+        "price": 190.0,
+        "price_text": "₹190",
+        "previous_price": 190.0,
+        "previous_price_text": "₹190",
+        "change": 0.0,
+        "change_text": "0",
+        "purity": null
+      },
+      {
+        "label": "Silver",
+        "unit": "kg",
+        "weight_grams": 1000.0,
+        "price": 190000.0,
+        "price_text": "₹1,90,000",
+        "previous_price": 190000.0,
+        "previous_price_text": "₹1,90,000",
+        "change": 0.0,
+        "change_text": "0",
+        "purity": null
+      }
+    ],
+    "rates_by_weight": [
+      {
+        "label": "Silver",
+        "unit": "gram",
+        "weight_grams": 1.0,
+        "price": 190.0,
+        "price_text": "₹190",
+        "previous_price": 190.0,
+        "previous_price_text": "₹190",
+        "change": 0.0,
+        "change_text": "0",
+        "purity": null
+      },
+      {
+        "label": "Silver",
+        "unit": "gram",
+        "weight_grams": 8.0,
+        "price": 1520.0,
+        "price_text": "₹1,520",
+        "previous_price": 1520.0,
+        "previous_price_text": "₹1,520",
+        "change": 0.0,
+        "change_text": "0",
+        "purity": null
+      },
+      {
+        "label": "Silver",
+        "unit": "gram",
+        "weight_grams": 10.0,
+        "price": 1900.0,
+        "price_text": "₹1,900",
+        "previous_price": 1900.0,
+        "previous_price_text": "₹1,900",
+        "change": 0.0,
+        "change_text": "0",
+        "purity": null
+      },
+      {
+        "label": "Silver",
+        "unit": "gram",
+        "weight_grams": 100.0,
+        "price": 19000.0,
+        "price_text": "₹19,000",
+        "previous_price": 19000.0,
+        "previous_price_text": "₹19,000",
+        "change": 0.0,
+        "change_text": "0",
+        "purity": null
+      },
+      {
+        "label": "Silver",
+        "unit": "kg",
+        "weight_grams": 1000.0,
+        "price": 190000.0,
+        "price_text": "₹1,90,000",
+        "previous_price": 190000.0,
+        "previous_price_text": "₹1,90,000",
+        "change": 0.0,
+        "change_text": "0",
+        "purity": null
+      }
+    ],
+    "notes": []
+  }
+}
